@@ -1,1 +1,4 @@
-Code samples for handling CSV data in different programming languages/softwares.
+R Scripts
+==========
+
+Code samples for handling data in R.
